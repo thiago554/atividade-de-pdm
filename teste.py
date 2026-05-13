@@ -49,7 +49,7 @@ with col_left:
         ">
         """, unsafe_allow_html=True)
 
-        st.image("teste.png", width=800)
+        st.image("thiago.jpeg", width=800)
 
         st.markdown("</div>", unsafe_allow_html=True)
 
