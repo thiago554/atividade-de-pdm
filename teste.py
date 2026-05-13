@@ -79,7 +79,7 @@ with col_right:
 st.markdown(f"""
     <div style="text-align: center; margin-top: 10px;">
         <a href="https://wa.me/5583988033139" target="_blank">
-            <img src="data:image/png;base64,{zap_base64}" width="100">
+            <img src="data:image/png;base64,{zap_base64}" width="300">
         </a>
     </div>
 """, unsafe_allow_html=True)
